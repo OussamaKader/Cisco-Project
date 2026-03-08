@@ -1,4 +1,4 @@
- PKT Projects – Cisco Packet Tracer Network Designs
+ ***PKT Projects – Cisco Packet Tracer Network Designs***
 
 This repository contains a collection of networking projects created using **Cisco Packet Tracer**.  
 The objective of these projects is to demonstrate practical implementations of networking concepts such as network topology design, routing, switching, and infrastructure planning.
