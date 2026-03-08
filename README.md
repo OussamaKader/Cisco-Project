@@ -7,13 +7,13 @@ Each project simulates a real-world network environment to help students and net
 
 
 
-## 📁 Projects Included
+## Projects Included
 
 ### 🔹 Project 1 – Small Office Network Design
 This project presents a basic network architecture for a small office environment.  
 It includes multiple computers connected through switches and routers to enable internal communication.
 
-<img src="https://raw.githubusercontent.com/0xknoty/PKT-Projects/main/Project%20%231/Project%20%231.png"/>
+<img src="https://github.com/OussamaKader/Cisco-Project/blob/main/Project%20%231/Project%20%231.png"/>
 
 
 
